@@ -277,6 +277,7 @@ module Alchemist
       :bushel => 3.523907e+1, :bushels => 3.523907e+1,
       :cubic_meter => 1000.0, :cubic_meters => 1000.0,
       :cup => 2.365882e-1, :cups => 2.365882e-1,
+      :australian_cup => 0.25, :australian_cups => 0.25,
       :imperial_fluid_ounce => 0.0284130742, :imperial_fluid_ounces => 0.0284130742,
       :ounce => 0.0295735296, :ounces => 0.0295735296, :fluid_ounce => 0.0295735296, :fluid_ounces => 0.0295735296,
       :imperial_gallon => 4.54609, :imperial_gallons => 4.54609,
@@ -288,7 +289,9 @@ module Alchemist
       :quart => 1.101221, :quarts => 1.101221,
       :liquid_quart => 9.463529e-1, :liquid_quarts => 9.463529e-1,
       :tablespoon => 0.0147867648, :tablespoons => 0.0147867648,
+      :australian_tablespoon => 0.02, :australian_tablespoons => 0.02,
       :teaspoon => 0.00492892159, :teaspoons => 0.00492892159,
+      :australian_teaspoon =>0.005, :australian_teaspoons => 0.005,
       #unusual measurements
       :sydharb => 5.0e+11, :sydharbs => 5.0e+11
     }
